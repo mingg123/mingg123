@@ -12,4 +12,6 @@
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySql-F80000?style=flat-square&logo=MySql&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Mobx-red?style=flat-square&logo=Mobx&logoColor=white"/>
+
 
