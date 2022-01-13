@@ -7,9 +7,9 @@
 
 
 
-<img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/><img src="https://img.shields.io/badge/MySql-F80000?style=flat-square&logo=MySql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySql-F80000?style=flat-square&logo=MySql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/C++-5C3EE8?style=flat-square&logo=C++&logoColor=white"/>
+
