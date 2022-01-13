@@ -1,4 +1,4 @@
-### Hi there 👋
+### Skills 🤔
 
 <!--
 **mingg123/mingg123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>
