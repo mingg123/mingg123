@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySql-F80000?style=flat-square&logo=MySql&logoColor=white"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingg123&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingg123&show_icons=true&theme=aura_dark)
 
 
 
