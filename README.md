@@ -18,7 +18,8 @@
 
 
 ### Study
-<a href="https://big-frown-d91.notion.site/9211318af8804343800ff46f5218705a"><img src="https://img.shields.io/badge/Front-black?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://big-frown-d91.notion.site/9211318af8804343800ff46f5218705a"><img src="https://img.shields.io/badge/Frontend-black?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://big-frown-d91.notion.site/0ee717d438fa48a98415a23ec3a58c84"><img src="https://img.shields.io/badge/Code Refactor-black?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingg123&show_icons=true&theme=aura_dark)
 
