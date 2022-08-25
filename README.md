@@ -13,6 +13,9 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySql-F80000?style=flat-square&logo=MySql&logoColor=white"/>
 
 
+### Study
+<a href="https://big-frown-d91.notion.site/9211318af8804343800ff46f5218705a"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=로고&logoColor=#000000"/></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingg123&show_icons=true&theme=aura_dark)
 
 
