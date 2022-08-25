@@ -1,4 +1,4 @@
-### Profile
+### Profile 👩🏻‍💻
 <a href="https://big-frown-d91.notion.site/MinJi-Kim-311ff5387fe24c798815edaba246fb73"><img src="https://img.shields.io/badge/Profile-black?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ### Skills 🤔
