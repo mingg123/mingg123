@@ -3,7 +3,7 @@
 
 ### Skills 🤔
 <!-- Skills -->
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Typescript-F808080?style=flat-square&logo=Typescript&logoColor=white" alt="Typescript" />
@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Redux-red?style=flat-square&logo=Redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/jest-red?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Nextjs-red?style=flat-square&logo=Nextjs&logoColor=white" alt="Next.js" />
- 
 </p>
 
 <p>
